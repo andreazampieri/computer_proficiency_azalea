@@ -1,7 +1,5 @@
-- [[Organizzazione file]]
-	- cartelle
-	- backup
-	- drive
+- [[Introduzione e organizzazione di files]]
+	- ~={orange}**DA AGGIORNARE**=~
 - Strumenti Office
 	- word
 	- excel
@@ -13,5 +11,6 @@
 	- Password Manager?
 	- Antivirus
 	- Phishing
+	- VPN?
 
 

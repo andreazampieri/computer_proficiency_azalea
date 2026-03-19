@@ -11,6 +11,7 @@
 		- social
 		- intrattenimento
 		- comunicazione (mail, whatsapp)
+	- Lavorare
 3. **Pausa**
 4. Organizzare i file
 	miscellanea
