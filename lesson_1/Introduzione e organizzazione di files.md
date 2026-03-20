@@ -12,7 +12,11 @@
 	- intrattenimento
 	- comunicazione (mail, whatsapp)
 - Lavorare
-###  **Pausa**
-### File e Cartelle 
-
+###  ~={green}**Pausa**=~
+### File e Cartelle
+- Divisione per tipo di file
+- Divisione per ambito, macroargomento e dettaglio
+- Divisione per data
+- Dare dei nomi significativi ai file
+- Usare il desktop e la cartella download come spazi temporanei e poi spostare i file nelle cartelle corrette
 ### Domande/curiosità/richieste
