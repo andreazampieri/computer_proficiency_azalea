@@ -13,30 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson_1/Introduzione e organizzazione di files.md",
+                "file": "lesson_2/Pacchetto Office.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduzione e organizzazione di files"
+              "title": "Pacchetto Office"
             }
           },
           {
-            "id": "60b5a66c8694cc15",
+            "id": "61b69e75f0e21bf2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Argomenti.md",
-                "bFile": "Argomenti.md",
-                "aRef": ""
+                "file": "Argomenti.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Argomenti  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Argomenti"
+            }
+          },
+          {
+            "id": "ebfd5e118bd57886",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +218,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60b5a66c8694cc15",
+  "active": "4dab6de1fb9547df",
   "lastOpenFiles": [
-    "lesson_1/Introduzione e organizzazione di files.md",
+    "lesson_2/Pacchetto Office.md",
     "Argomenti.md",
+    "lesson_1/Introduzione e organizzazione di files.md",
+    "lesson_2/EC0F2000",
+    "lesson_2/Bilancio mensile1.xlsx",
+    "lesson_2/499E2000",
+    "lesson_2/~$Bilancio mensile1.xlsx",
+    "lesson_2/Senza nome.canvas",
+    "lesson_2/Senza nome.base",
     "glossary/Computer.md",
     "Glossario.md",
     "glossary",
@@ -223,7 +239,6 @@
     "lesson_4",
     "lesson_3",
     "lesson_2",
-    "lesson_1",
     "Welcome.md",
     "2026-03-14.md",
     "create a link.md"

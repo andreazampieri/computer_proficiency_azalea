@@ -1,6 +1,6 @@
 - [[Introduzione e organizzazione di files]]
 	- ~={orange}**DA AGGIORNARE**=~
-- Strumenti Office
+- [[Pacchetto Office]]
 	- word
 	- excel
 	- ppt
