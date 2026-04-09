@@ -31,8 +31,13 @@ L’uomo seguì quelle istruzioni, la compagnia respinse il rimborso e la questi
 ##### Domande di interazione
 1. Che pensieri vi suscitano queste storie?
 2. Che sensazioni avete?
-3. Secondo voi cosa 
+3. Secondo voi cosa si può fare per prevenire queste cose?
 ## ~={green}Pausa=~
+
+## Per cosa ~={red}**non**=~ va usata
+- deepfake (https://www.youtube.com/watch?v=oxXpB9pSETo)
+- come relazione (amico, psicologo, medico)
+- gestione di dati sensibili e personali
 
 ## Cosa è brava a fare e come usarla
 
@@ -61,3 +66,4 @@ L’AI può aiutare a strutturare task, piani, checklist, slide e flussi operati
 2. non è una persona
 3. non è infallibile
 4. non può sostituire il pensiero umano
+5. bisogna controllare le fonti
