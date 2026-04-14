@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson_3/AI.md",
+                "file": "lesson_4/Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "Security"
             }
           },
           {
@@ -220,8 +220,10 @@
   },
   "active": "4dab6de1fb9547df",
   "lastOpenFiles": [
-    "Argomenti.md",
     "lesson_3/AI.md",
+    "lesson_4/Security.md",
+    "Argomenti.md",
+    "Untitled.md",
     "lesson_2/Pacchetto Office.md",
     "lesson_1/Introduzione e organizzazione di files.md",
     "lesson_2/EC0F2000",
