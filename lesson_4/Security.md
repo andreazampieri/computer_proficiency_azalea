@@ -3,6 +3,8 @@
 - https://phishingquiz.withgoogle.com/?hl=it
 - https://www.f-secure.com/it/link-checker
 
+https://large-type.com/#*hello*
+
 ## Virus
 - cos'è un virus? Analogia del prestare l'auto a qualcuno di cui è bene non fidarsi
 #### Evitare virus
@@ -18,6 +20,7 @@
 ## Password Management
 - complessità
 - ripetizione
+- https://haveibeenpwned.com/Passwords
 - dove le salvo?
 	- Proton Pass
 
